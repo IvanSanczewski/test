@@ -6,11 +6,11 @@ h1 {
 }
 
 h3 {
+    display: block;
     padding: .5rem;
-    margin-top: 5em;
 
     color: darkblue;
-    background-color: lightskyblue;
+    background-color: rgb(135, 250, 196);
 
     border-radius: .8em;
     border: 2px solid darkblue;
@@ -18,5 +18,13 @@ h3 {
 
 p {
     color: rgb(57, 57, 57)
+}
+
+.external-border {
+    padding: 0.5em;
+    
+    background-color: lightskyblue;
+    
+    border-radius: .8em;
 }
 
