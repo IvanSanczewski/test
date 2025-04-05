@@ -1,0 +1,22 @@
+h1 {
+    padding: .5rem;
+    
+    color: whitesmoke;
+    background-color: darkblue;
+}
+
+h3 {
+    padding: .5rem;
+    margin-top: 5em;
+
+    color: darkblue;
+    background-color: lightskyblue;
+
+    border-radius: .8em;
+    border: 2px solid darkblue;
+}
+
+p {
+    color: rgb(57, 57, 57)
+}
+
